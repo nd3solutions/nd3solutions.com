@@ -1,7 +1,7 @@
 nd3solutions.com
 ---
 
-![Build Status](https://codebuild.us-east-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoib1BONTB4MUVnYXZzd00vNVBMNmdHTmlJWFp5V1JjY1crM1c4UEI1VzVPY0JHYW9SOUY4SmVkY2dIWTc5bWEvLzQ3YlZLNGVyK3h2T2g3Q0NvQXloNjlZPSIsIml2UGFyYW1ldGVyU3BlYyI6Iks4a2xwZm1XTHhxL1hENnoiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+[![Build Status](https://travis-ci.org/nd3solutions/nd3solutions.com.svg?branch=master)](https://travis-ci.org/nd3solutions/nd3solutions.com)
 
 ## Usage
 
