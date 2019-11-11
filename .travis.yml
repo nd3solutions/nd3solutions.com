@@ -1,0 +1,18 @@
+# trusty beta image has jdk8, gcc4.8.4
+dist: bionic
+sudo: required
+# Not technically required but suppresses 'Ruby' in Job status message.
+language: node_js
+
+node_js:
+  - "node"
+  - "lts/*"
+
+os:
+  - linux
+
+script:
+  - npm install
+  - npm run build
+notifications:
+  email: false
